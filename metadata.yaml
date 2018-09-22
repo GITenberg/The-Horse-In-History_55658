@@ -1,11 +1,16 @@
 _repo: The-Horse-In-History_55658
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55658-h/images/cover.jpg
 creator:
   author:
     agent_name: Tozer, Basil
     gutenberg_agent_id: '48442'
     url: http://www.gutenberg.org/2009/agents/48442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55658#The-Horse-In-History
 gutenberg_issued: '2017-10-01'
 gutenberg_type: Text
 identifiers:
